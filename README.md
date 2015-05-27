@@ -8,7 +8,7 @@ manually, as well as record deployments through the API as well.
 ## Installation
 
 You must have a **MySQL** server, as well as an **InfluxDB** server. The
-**memcached** server is optional.
+**[memecached](https://github.com/EvanDarwin/Memecached)** server is optional.
 
 Clone the application into your desired directory, and go ahead and prepare the app:
 
